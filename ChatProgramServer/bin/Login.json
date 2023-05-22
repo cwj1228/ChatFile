@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "12",
+      "pw": "564",
+      "name": "342"
+    },
+    {
+      "id": "gro1228",
+      "pw": "1234",
+      "name": "Gro"
+    },
+    {
+      "id": "zxc",
+      "pw": "asd",
+      "name": "qwe"
+    },
+    {
+      "id": "ccj1234",
+      "pw": "aefq3577597",
+      "name": "최원진"
+    },
+    {
+      "id": "123",
+      "pw": "qwe",
+      "name": "zxc"
+    },
+    {
+      "id": "cety1352",
+      "pw": "kj7984123",
+      "name": "baeksuk"
+    },
+    {
+      "id": "player1",
+      "pw": "1234",
+      "name": "Player01"
+    },
+    {
+      "id": "player2",
+      "pw": "1234",
+      "name": "Player02"
+    }
+  ]
+}
